@@ -1,4 +1,4 @@
-package com.shopme.common;
+	package com.shopme.common;
 
 public class Constants {
 	public static final String S3_BASE_URI;
